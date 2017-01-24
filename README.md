@@ -1,2 +1,3 @@
 - [Arduino stack exchange](http://arduino.stackexchange.com/)
 - [Programming electronics academy](https://www.youtube.com/user/OSHJunkies/videos) - Good video tutorials
+- [Arduino API](https://www.arduino.cc/en/Reference/HomePage) - Writing in arduino
