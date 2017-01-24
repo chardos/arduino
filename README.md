@@ -1,1 +1,2 @@
 - [Arduino stack exchange](http://arduino.stackexchange.com/)
+- [Programming electronics academy](https://www.youtube.com/user/OSHJunkies/videos) - Good video tutorials
